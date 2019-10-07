@@ -1,0 +1,1 @@
+7.2.4.28445linux:Linux5.0.0-27-genericSntFC1569089940117D1569106803361S106966@x /x (Cube(x) | Dodec(x))@x@y((Cube(x) & Tet(y)) $ LeftOf(x, y))/x/y/z(Tet(x) & Tet(y) & Tet(z) & (x # y & y # z & x # z))@x ((Cube(x)&Small(x)) $ /y (Cube(y) & BackOf(x, y)& Large(y)))@x (Dodec(x)$ Small(x))@x (Dodec(x)$ /y(Tet(y) & Smaller(x,y)))s=54682;

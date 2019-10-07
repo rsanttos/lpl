@@ -1,0 +1,1 @@
+7.2.4.28445linux:Linux5.0.0-27-genericSntFC1568399778010D1568399811369S104135~/y Prime(y * y)/y ~Even(y * y)@y (Prime(y) $ Prime(y * y)) @y ((Prime(y) & y # 2) $ ~Even(y * y)) @y ((y > 1) $ (y * y) > y)s=32379;
